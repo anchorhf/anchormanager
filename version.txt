@@ -1,0 +1,4 @@
+#Update 'frontend_version' value
+#Fri Jun 03 17:59:02 CST 2016
+db_version=16
+frontend_version=1

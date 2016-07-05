@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="E:/120/1.workspace/AnchorUpdateManager/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/120/1.workspace/AnchorUpdateManager/lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/120/1.workspace/AnchorUpdateManager/lib/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/120/1.workspace/AnchorUpdateManager/lib/commons-dbutils-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/120/1.workspace/AnchorUpdateManager/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/120/1.workspace/AnchorUpdateManager/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/120/1.workspace/AnchorUpdateManager/lib/commons-pool-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/120/1.workspace/AnchorUpdateManager/lib/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/120/1.workspace/AnchorUpdateManager/lib/httpcore-4.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/120/1.workspace/AnchorUpdateManager/lib/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/120/1.workspace/AnchorUpdateManager/lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="E:/120/1.workspace/AnchorUpdateManager/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="E:/120/1.workspace/AnchorUpdateManager/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="E:/120/1.workspace/AnchorUpdateManager/lib/sqlite-jdbc-3.8.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
