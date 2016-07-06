@@ -40,6 +40,7 @@ public class CoreMain {
 	 * @param args
 	 * 
 	 */
+	
 	private static final Logger logger = LoggerUtil.getInstance(CoreMain.class);
 	private static int ExecuteSynchronization = 0;// 是否立即同步
 	private static int synchronizationInterval = 24;// 同步间隔时间
